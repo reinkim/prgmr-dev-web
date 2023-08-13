@@ -2,3 +2,10 @@ baseURL = 'https://prgmr-dev/'
 languageCode = 'en-us'
 title = "Jinuk's Log"
 theme = "paper"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
