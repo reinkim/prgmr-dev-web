@@ -1,0 +1,4 @@
+baseURL = 'https://prgmr-dev/'
+languageCode = 'en-us'
+title = "Jinuk's Log"
+theme = "paper"
