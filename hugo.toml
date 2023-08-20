@@ -1,7 +1,10 @@
-baseURL = 'https://prgmr-dev/'
+baseURL = 'https://prgmr.dev/'
 languageCode = 'en-us'
 title = "Jinuk's Log"
 theme = "paper"
+
+# Google Analytics
+googleAnalytics = 'G-ELE1RPQW86'
 
 [menu]
   [[menu.main]]
